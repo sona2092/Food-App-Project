@@ -1,8 +1,8 @@
-# Food Project
+# Food App Project
 
 ## Overview
 
-The "Food Project" is a web application that includes a combination of various web technologies. This project demonstrates advanced web development skills and integrates several components to create a comprehensive web application.
+The "Food App Project" is a web application that includes a combination of various web technologies. This project demonstrates advanced web development skills and integrates several components to create a comprehensive web application.
 
 ## Project Structure
 
@@ -23,7 +23,7 @@ Ensure you have the following installed on your local development environment:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/sona2092/Food-Project.git
+    git clone https://github.com/sona2092/Food-App-Project.git
     ```
 
 ### Running the Project
