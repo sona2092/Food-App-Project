@@ -43,6 +43,17 @@ You can use the [Live Server](https://marketplace.visualstudio.com/items?itemNam
 - Integration of various web technologies and libraries.
 - Responsive design ensuring compatibility with different devices.
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/c1ddf5b6-710f-4045-9e39-4a6cfb979853)
+![image](https://github.com/user-attachments/assets/2ddd4d14-96e2-4c42-a27a-9fbdbaa85d82)
+![image](https://github.com/user-attachments/assets/448050c7-c870-43ff-be46-19c2c47a732b)
+![image](https://github.com/user-attachments/assets/fe99b64f-4566-49d6-8311-0f4589c47152)
+![image](https://github.com/user-attachments/assets/5ceff57e-da42-4bcd-898f-e7f9ebeb6a23)
+![image](https://github.com/user-attachments/assets/e3dde834-72a6-4d29-bc65-0b70d697fe58)
+![image](https://github.com/user-attachments/assets/998e6dbd-3630-484e-9749-f8a67b550555)
+![image](https://github.com/user-attachments/assets/ed5961cd-b74b-45e1-89ab-f59df4423e4e)
+
+
 ## Contributions
 
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or additions.
